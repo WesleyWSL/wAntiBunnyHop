@@ -1,2 +1,4 @@
 # wAntiBunnyHop
-wAntiBynny
+wAntiBunnyHop
+
+Script simple AntiBunnyHop
